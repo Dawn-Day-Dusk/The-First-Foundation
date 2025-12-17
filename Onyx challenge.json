@@ -1,0 +1,59 @@
+{
+  "name": "Grey Green Modern",
+  "dataColors": [
+    "#5E1525",
+    "#C74F29",
+    "#E99E46",
+    "#B6C38D",
+    "#828144"
+  ],
+  "background": "#F8F6F2",
+  "foreground": "#4F5744",
+  "tableAccent": "#C74F29",
+  "textClasses": {
+    "title": {
+      "color": "#2A3A4B",
+      "fontSize": 20
+    },
+    "header": {
+      "color": "#4F5744",
+      "fontSize": 14
+    },
+    "callout": {
+      "color": "#4F5744",
+      "fontSize": 12
+    },
+    "label": {
+      "color": "#4F5744",
+      "fontSize": 11
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "color": { "solid": { "color": "#2A3A4B" } },
+            "fontFamily": "Segoe UI",
+            "fontSize": 20
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#4F5744" } },
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "selection": [
+          {
+            "color": { "solid": { "color": "#5E1525" } }
+          }
+        ]
+      }
+    }
+  }
+}
