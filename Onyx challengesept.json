@@ -1,0 +1,184 @@
+{
+  "name": "Bank Dashboard Theme (Reordered)",
+  "dataColors": [
+    "#975E64",
+    "#B48288",
+    "#CFA4A9",
+    "#5E7B80",
+    "#2D3E50",
+    "#3F6B5C",
+    "#7B7D81",
+    "#46484A",
+    "#2E2F31",
+    "#E8EAEB",
+    "#C6C8CB",
+    "#ECECEC",
+    "#F6F7F8",
+    "#FBF4EF",
+    "#1C1C1C"
+  ],
+  "background": "#FBF4EF",
+  "foreground": "#1C1C1C",
+  "tableAccent": "#3F6B5C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "titleText": {
+        "color": [
+          {
+            "solid": {
+              "color": "#2D3E50"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "labels": {
+        "color": [
+          {
+            "solid": {
+              "color": "#1C1C1C"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 11
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "multiRowCard": {
+      "*": {
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "titleText": {
+        "color": [
+          {
+            "solid": {
+              "color": "#2D3E50"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 14
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "labels": {
+        "color": [
+          {
+            "solid": {
+              "color": "#1C1C1C"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 11
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "grid": {
+        "outlineColor": [
+          {
+            "solid": {
+              "color": "#ECECEC"
+            }
+          }
+        ]
+      },
+      "columnHeaders": {
+        "color": [
+          {
+            "solid": {
+              "color": "#2D3E50"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 12
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      },
+      "values": {
+        "color": [
+          {
+            "solid": {
+              "color": "#1C1C1C"
+            }
+          }
+        ],
+        "fontSize": [
+          {
+            "value": 11
+          }
+        ],
+        "fontFamily": [
+          {
+            "fontFamily": "Segoe UI"
+          }
+        ]
+      }
+    }
+  }
+}
